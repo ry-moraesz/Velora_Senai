@@ -1,0 +1,1 @@
+export default {content:['./index.html','./src/**/*.{ts,tsx}'],theme:{extend:{colors:{velora:{green:'#61af14',deep:'#106218',forest:'#044d29',purple:'#6d28a8',violet:'#42007b',lavender:'#b35bff'}}}},plugins:[]}
